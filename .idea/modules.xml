@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts-task.iml" group="Contacts1/Contacts-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts-task_main.iml" group="Contacts1/Contacts-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Contacts/task/Contacts-task_test.iml" group="Contacts1/Contacts-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Contacts1.iml" filepath="$PROJECT_DIR$/.idea/Contacts1.iml" group="Contacts1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Contacts1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Contacts1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Contacts1/util" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Here is something you probably use regularly: contacts. In this project, you will write a program to create contacts (like on the mobile phone) and search for people or organizations by name.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/43&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Contacts" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="228" />
+                <option name="stepId" value="5324" />
+                <option name="title" value="First contact" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="229" />
+                <option name="stepId" value="5325" />
+                <option name="title" value="Create a menu" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="230" />
+                <option name="stepId" value="5326" />
+                <option name="title" value="Upgrade your contacts" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="231" />
+                <option name="stepId" value="5327" />
+                <option name="title" value="Searching" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="266" />
+                      <option name="theoryId" value="4953" />
+                      <option name="title" value="Computer algorithms" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="263" />
+                      <option name="theoryId" value="4991" />
+                      <option name="title" value="The big O notation" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="267" />
+                      <option name="theoryId" value="5161" />
+                      <option name="title" value="Data structures" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="346" />
+                      <option name="theoryId" value="5357" />
+                      <option name="title" value="Dynamic array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="157" />
+                      <option name="theoryId" value="3611" />
+                      <option name="title" value="The concept of patterns" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="317" />
+                      <option name="theoryId" value="5130" />
+                      <option name="title" value="Builder" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="60" />
+                      <option name="theoryId" value="3497" />
+                      <option name="title" value="What is an exception" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="164" />
+                      <option name="theoryId" value="1945" />
+                      <option name="title" value="NPE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="167" />
+                      <option name="theoryId" value="3492" />
+                      <option name="title" value="Generic programming" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="166" />
+                      <option name="theoryId" value="3567" />
+                      <option name="title" value="ArrayList" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="178" />
+                      <option name="theoryId" value="3670" />
+                      <option name="title" value="Regex basics" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="180" />
+                      <option name="theoryId" value="3674" />
+                      <option name="title" value="Sets, ranges, alternations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="181" />
+                      <option name="theoryId" value="3680" />
+                      <option name="title" value="Shorthands" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="182" />
+                      <option name="theoryId" value="3687" />
+                      <option name="title" value="Quantifiers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="183" />
+                      <option name="theoryId" value="3696" />
+                      <option name="title" value="Regexes in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="185" />
+                      <option name="theoryId" value="3712" />
+                      <option name="title" value="Patterns and Matcher" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="186" />
+                      <option name="theoryId" value="3716" />
+                      <option name="title" value="Match results" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="163" />
+                      <option name="theoryId" value="3536" />
+                      <option name="title" value="Errors in programs" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="316" />
+                      <option name="theoryId" value="5096" />
+                      <option name="title" value="Command" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="326" />
+                      <option name="theoryId" value="5155" />
+                      <option name="title" value="Template method" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="160" />
+                      <option name="theoryId" value="3577" />
+                      <option name="title" value="Encapsulating object creation" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="324" />
+                      <option name="theoryId" value="5761" />
+                      <option name="title" value="Factory method" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="382" />
+                      <option name="theoryId" value="5732" />
+                      <option name="title" value="Abstract factory" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="33" />
+                      <option name="theoryId" value="3504" />
+                      <option name="title" value="Switch statement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="26" />
+                      <option name="theoryId" value="3607" />
+                      <option name="title" value="Enum" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="8" />
+                      <option name="theoryId" value="3583" />
+                      <option name="title" value="Inheritance" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="491" />
+                      <option name="theoryId" value="6692" />
+                      <option name="title" value="Protected modifier" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="128" />
+                      <option name="theoryId" value="3585" />
+                      <option name="title" value="Referencing subclass objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="104" />
+                      <option name="theoryId" value="3592" />
+                      <option name="title" value="LocalDate" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="106" />
+                      <option name="theoryId" value="3593" />
+                      <option name="title" value="LocalTime" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="105" />
+                      <option name="theoryId" value="3617" />
+                      <option name="title" value="LocalDateTime" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="129" />
+                      <option name="theoryId" value="3571" />
+                      <option name="title" value="Runtime type checking" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="59" />
+                      <option name="theoryId" value="3570" />
+                      <option name="title" value="Hierarchy of exceptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="65" />
+                      <option name="theoryId" value="3552" />
+                      <option name="title" value="Exception handling" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="172" />
+                      <option name="theoryId" value="3635" />
+                      <option name="title" value="Files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="173" />
+                      <option name="theoryId" value="3636" />
+                      <option name="title" value="Reading files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="177" />
+                      <option name="theoryId" value="3652" />
+                      <option name="title" value="Writing files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="1" />
+                      <option name="theoryId" value="3489" />
+                      <option name="title" value="The main method" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="37" />
+                      <option name="theoryId" value="3525" />
+                      <option name="title" value="Overloading" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="99" />
+                      <option name="theoryId" value="3594" />
+                      <option name="title" value="Arrays as parameters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="111" />
+                      <option name="theoryId" value="3566" />
+                      <option name="title" value="Command-line arguments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="38" />
+                      <option name="theoryId" value="3534" />
+                      <option name="title" value="Static members" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="120" />
+                      <option name="theoryId" value="3538" />
+                      <option name="title" value="Multiple constructors" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="127" />
+                      <option name="theoryId" value="3588" />
+                      <option name="title" value="The keyword super" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="5" />
+                      <option name="theoryId" value="3572" />
+                      <option name="title" value="Hiding and overriding" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="2" />
+                      <option name="theoryId" value="3587" />
+                      <option name="title" value="Polymorphism" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="122" />
+                      <option name="theoryId" value="3597" />
+                      <option name="title" value="Abstract class" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="124" />
+                      <option name="theoryId" value="3615" />
+                      <option name="title" value="Interface" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="123" />
+                      <option name="theoryId" value="3563" />
+                      <option name="title" value="Abstract class vs interface" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="100" />
+                      <option name="theoryId" value="3598" />
+                      <option name="title" value="Serialization basics" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="103" />
+                      <option name="theoryId" value="3616" />
+                      <option name="title" value="Custom serialization" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Here is something you probably use regularly: contacts. In this project, you will write a program to create contacts (like on the mobile phone) and search for people or organizations by name." />
+              <option name="id" value="43" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/204791/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="Contacts" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="3" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Contacts" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage1" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Contacts is a handy app to have. It stores all of your saved contacts. In this project, you will write one yourself. It teaches you to understand and implement the basic principles of OOP.&lt;/p&gt;&#10;&#10;&lt;p&gt;In the first stage, you should write a program that creates an instance of a class that stores information about one record in the Contacts. One record should contain a name, a surname, and a phone number. You can type them from the keyboard.&lt;/p&gt;&#10;&#10;&lt;p&gt;You should also create a class representing this app. For now, it should store only one record: a record that you created from the input.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;Below is an example of how your output might look. Lines which start with &lt;code&gt;&amp;gt;&lt;/code&gt; represent the user input.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter the name of the person:&#10;&amp;gt; John&#10;Enter the surname of the person:&#10;&amp;gt; Smith&#10;Enter the number:&#10;&amp;gt; 1-234-567-890&#10;&#10;A record created!&#10;A Phone Book with a single record created!&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/43/stages/228/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5324" />
+                      <option name="index" value="1" />
+                      <option name="name" value="First contact" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/contacts/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/contacts/Main.java" />
+                                <option name="text" value="package contacts;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/ContactsTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ContactsTest.java" />
+                                <option name="text" value="import contacts.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;&#10;class TestClue {&#10;&#10;    String feedback;&#10;&#10;    TestClue(String feedback, String outFile, Double[] answers) {&#10;&#10;    }&#10;}&#10;&#10;&#10;public class ContactsTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public ContactsTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&quot;John\nSmith\n1-234-567-890&quot;)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        reply = reply.toLowerCase();&#10;        if (!reply.contains(&quot;enter the name&quot;)&#10;            &amp;&amp; !reply.contains(&quot;enter a name&quot;)) {&#10;&#10;            return new CheckResult(false,&#10;                &quot;I don't see a place to enter the name.&quot;);&#10;        }&#10;        if (!reply.contains(&quot;enter the surname&quot;)&#10;            &amp;&amp; !reply.contains(&quot;enter a surname&quot;)) {&#10;&#10;            return new CheckResult(false,&#10;                &quot;I don't see a place to enter the surname.&quot;);&#10;        }&#10;        if (!reply.contains(&quot;enter the number&quot;)&#10;            &amp;&amp; !reply.contains(&quot;enter a number&quot;)) {&#10;&#10;            return new CheckResult(false,&#10;                &quot;I don't see a place to enter the number.&quot;);&#10;        }&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1567623312000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage2" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Sometimes we need to restrict the ability to change the instance fields. For example, the phone number can't just be any string; it should follow some rules. As you can see &lt;a href=&quot;https://en.wikipedia.org/wiki/National_conventions_for_writing_telephone_numbers&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;, phone number format is different for every country, but they all have some elements in common.&lt;/p&gt;&#10;&#10;&lt;p&gt;So, you should set the field with a phone number to be private and create a getter and setter to this field. The setter should check the value using a regular expression and should set the value to the field only if the value satisfies all the rules below:&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;  &lt;li&gt;The phone number should be split into groups using a space or dash. One group is also possible.&lt;/li&gt;&#10;  &lt;li&gt;Before the first group, there may or may not be a plus symbol.&lt;/li&gt;&#10;  &lt;li&gt;The first group or the second group can be wrapped in parentheses, but there should be no more than one group which is wrapped in parentheses. There may be no groups wrapped in parentheses.&lt;/li&gt;&#10;  &lt;li&gt;A group can contain numbers, uppercase, and lowercase English letters. A group should be at least 2 symbols in length. But the first group may be only one symbol in length.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;If you are struggling with a regular expression that checks all of these, you might check the phone number with only String methods.&lt;br&gt;&#10;  Also, create getters and setters for the name and surname of the person. Also, there should be a method hasNumber() that checks if the user has a number. Initially, set the number to be an empty string.&lt;/p&gt;&#10;&#10;&lt;p&gt;Create a separate method to check the validity of the phone number. This is standalone logic and potentially can be used in multiple places of a class. But this is also a method for internal use. Therefore, mark the method as private.&lt;/p&gt;&#10;&#10;&lt;p&gt;This concept of restricting the usage of a class called &lt;strong&gt;encapsulation&lt;/strong&gt;. This is a self-documented solution for how to use a class.&lt;/p&gt;&#10;&#10;&#10;&lt;p&gt;In this stage, you should write a program that keeps all the records in a list. You should be able to add, remove, edit the records, and get the number of records. If the user inputs an incorrect phone number, you should reset it as empty. If the number is empty, you should write the string &lt;code&gt;[no number]&lt;/code&gt; instead of it.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output examples&lt;/h2&gt;&#10;&#10;&lt;p&gt;Below is an example of how your output might look. The symbol &lt;code&gt;&amp;gt;&lt;/code&gt; represents the user input.&lt;/p&gt;&#10;&#10;Example 1&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter action (add, remove, edit, count, list, exit): &amp;gt; count&#10;The Phone Book has 0 records.&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; edit&#10;No records to edit!&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; remove&#10;No records to remove!&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; add&#10;Enter the name: &amp;gt; John&#10;Enter the surname: &amp;gt; Smith&#10;Enter the number: &amp;gt; +0 (123) 456-789-ABcd&#10;The record added.&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; add&#10;Enter the name: &amp;gt; Adam&#10;Enter the surname: &amp;gt; Jones&#10;Enter the number: &amp;gt; +0(123)456-789-9999&#10;Wrong number format!&#10;The record added.&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; list&#10;1. John Smith, +0 (123) 456-789-ABcd&#10;2. Adam Jones, [no number]&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; edit&#10;1. John Smith, +0 (123) 456-789-ABcd&#10;2. Adam Jones, [no number]&#10;Select a record: &amp;gt; 2&#10;Select a field (name, surname, number): &amp;gt; number&#10;Enter number: &amp;gt; (123) 234 345-456&#10;The record updated!&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; list&#10;1. John Smith, +0 (123) 456-789-ABcd&#10;2. Adam Jones, (123) 234 345-456&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; remove&#10;1. John Smith, +0 (123) 456-789-ABcd&#10;2. Adam Jones, (123) 234 345-456&#10;Select a record: &amp;gt; 1&#10;The record removed!&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; list&#10;1. Adam Jones, (123) 234 345-456&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; exit&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;Example 2&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter action (add, remove, edit, count, list, exit): &amp;gt; add&#10;Enter the name: &amp;gt; John&#10;Enter the surname: &amp;gt; Smith&#10;Enter the number: &amp;gt; +0 (123) 456-789-ABcd&#10;The record added.&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; edit&#10;1. John Smith, +0 (123) 456-789-ABcd&#10;Select a record: &amp;gt; 1&#10;Select a field (name, surname, number): &amp;gt; number&#10;Enter number: &amp;gt; ()()&#10;Wrong number format!&#10;The record updated!&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; list&#10;1. John Smith, [no number]&#10;Enter action (add, remove, edit, count, list, exit): &amp;gt; exit&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&lt;p&gt; &lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/43/stages/229/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5325" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Create a menu" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ContactsTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ContactsTest.java" />
+                                <option name="text" value="import contacts.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;import java.util.function.Function;&#10;&#10;class TestClue {&#10;&#10;    Function&lt;String, CheckResult&gt; callback;&#10;&#10;    TestClue(Function&lt;String, CheckResult&gt; callback) {&#10;        this.callback = callback;&#10;    }&#10;}&#10;&#10;&#10;public class ContactsTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public ContactsTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    private TestCase&lt;TestClue&gt; testPhoneNumber(String num, boolean isCorrect, boolean giveHint) {&#10;        return new TestCase&lt;TestClue&gt;()&#10;            .setInput(&#10;                &quot;count\n&quot; +&#10;                    &quot;add\n&quot; +&#10;                    &quot;John1\n&quot; +&#10;                    &quot;Smith2\n&quot; +&#10;                    num + &quot;\n&quot; +&#10;                    &quot;list\n&quot; +&#10;                    &quot;exit&quot;)&#10;            .setAttach(new TestClue(output -&gt; {&#10;&#10;                boolean containsNum = output.contains(num);&#10;                boolean containsNoNumber = output.contains(&quot;[no number]&quot;);&#10;&#10;                if (containsNum &amp;&amp; containsNoNumber) {&#10;                    return new CheckResult(false,&#10;                        &quot;On \'list\&quot; action you seem to output both &quot; +&#10;                            &quot;\&quot;[no number]\&quot; and an actual number - &quot; +&#10;                            &quot;you should output only one of them.&quot;&#10;                    );&#10;                }&#10;&#10;                if (!containsNum &amp;&amp; !containsNoNumber) {&#10;                    return new CheckResult(false,&#10;                        &quot;On \'list\&quot; action you seem to output neither &quot; +&#10;                            &quot;\&quot;[no number]\&quot; nor an actual number - &quot; +&#10;                            &quot;you should output one of them.&quot;&#10;                    );&#10;                }&#10;&#10;&#10;                if (isCorrect &amp;&amp;&#10;                    !output.contains(num) &amp;&amp;&#10;                    output.contains(&quot;[no number]&quot;)&#10;&#10;                    ||&#10;&#10;                    !isCorrect &amp;&amp;&#10;                        output.contains(num) &amp;&amp;&#10;                        !output.contains(&quot;[no number]&quot;)&#10;                ) {&#10;                    if (giveHint) {&#10;                        if (isCorrect) {&#10;                            return new CheckResult(false,&#10;                                &quot;Test contains a legal phone number \&quot;&quot; + num + &quot;\&quot;, &quot; +&#10;                                    &quot;you should print this number instead of \&quot;[no number]\&quot;&quot;);&#10;                        } else {&#10;                            return new CheckResult(false,&#10;                                &quot;Test contains an illegal phone number \&quot;&quot; + num + &quot;\&quot;, &quot; +&#10;                                    &quot;you should print \&quot;[no number]\&quot; instead of this number&quot;);&#10;                        }&#10;                    } else {&#10;                        if (isCorrect) {&#10;                            return new CheckResult(false,&#10;                                &quot;Test contains an legal phone number, &quot; +&#10;                                    &quot;you should print this number instead of \&quot;[no number]\&quot;&quot;);&#10;                        } else {&#10;                            return new CheckResult(false,&#10;                                &quot;Test contains an illegal phone number, &quot; +&#10;                                    &quot;you should print \&quot;[no number]\&quot; instead of this number&quot;);&#10;                        }&#10;                    }&#10;                }&#10;                return CheckResult.TRUE;&#10;            }));&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        return List.of (&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;enter action&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;I didn't see where \&quot;Enter action\&quot; part in the responsesFromClient&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;count\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;0 records&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;No \&quot;0 records\&quot; part &quot; +&#10;                                &quot;in the responsesFromClient in a place where it should be&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;edit\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;no records to edit&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;No \&quot;No records to edit\&quot; part &quot; +&#10;                                &quot;in the responsesFromClient in a place where it should be&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;remove\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;no records to remove&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;No \&quot;No records to remove\&quot; part &quot; +&#10;                                &quot;in the responsesFromClient in a place where it should be&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;John\n&quot; +&#10;                        &quot;Smith\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                        &quot;count\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (output.contains(&quot;0 records&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Can't add the person&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;John1\n&quot; +&#10;                        &quot;Smith2\n&quot; +&#10;                        &quot;123-456-78912\n&quot; +&#10;                        &quot;list\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    if (!output.contains(&quot;1. John1 Smith2, 123-456-78912&quot;) &amp;&amp;&#10;                        !output.contains(&quot;1. John1 Smith2, [no number]&quot;)) {&#10;&#10;                        return new CheckResult(false,&#10;                            &quot;No \&quot;[id]. [name] [surname], [phone]\&quot; part &quot; +&#10;                                &quot;after \&quot;list\&quot; action&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            testPhoneNumber(&quot;123&quot;, true, true),&#10;            testPhoneNumber(&quot;123 abc&quot;, true, true),&#10;            testPhoneNumber(&quot;123-ABC&quot;, true, true),&#10;            testPhoneNumber(&quot;123 456 xyz&quot;, true, true),&#10;            testPhoneNumber(&quot;123-456-XYZ&quot;, true, true),&#10;            testPhoneNumber(&quot;123 456-789&quot;, true, true),&#10;            testPhoneNumber(&quot;123-456 789&quot;, true, true),&#10;            testPhoneNumber(&quot;123 45-up-89&quot;, true, true),&#10;&#10;            testPhoneNumber(&quot;(123)&quot;, true, true),&#10;            testPhoneNumber(&quot;(123) 456&quot;, true, true),&#10;            testPhoneNumber(&quot;123-(456)&quot;, true, true),&#10;            testPhoneNumber(&quot;123 (456) 789&quot;, true, true),&#10;            testPhoneNumber(&quot;123-(456)-789&quot;, true, true),&#10;            testPhoneNumber(&quot;(123) 456-789&quot;, true, true),&#10;            testPhoneNumber(&quot;(123)-456 789&quot;, true, true),&#10;            testPhoneNumber(&quot;123 (45)-67-89&quot;, true, true),&#10;            testPhoneNumber(&quot;+(phone)&quot;, true, true),&#10;&#10;            testPhoneNumber(&quot;123+456 78912&quot;, false, true),&#10;            testPhoneNumber(&quot;(123)-456-(78912)&quot;, false, true),&#10;            testPhoneNumber(&quot;9&quot;, true, true),&#10;            testPhoneNumber(&quot;123 456 9&quot;, false, true),&#10;            testPhoneNumber(&quot;123 9 9234&quot;, false, true),&#10;            testPhoneNumber(&quot;123 4?5 678&quot;, false, true),&#10;            testPhoneNumber(&quot;+(with space)&quot;, false, true),&#10;&#10;&#10;            testPhoneNumber(&quot;193&quot;, true, false),&#10;            testPhoneNumber(&quot;129 abf&quot;, true, false),&#10;            testPhoneNumber(&quot;123-AFC&quot;, true, false),&#10;            testPhoneNumber(&quot;154 456 xyz&quot;, true, false),&#10;            testPhoneNumber(&quot;123-566-XYZ&quot;, true, false),&#10;            testPhoneNumber(&quot;123 456-349&quot;, true, false),&#10;            testPhoneNumber(&quot;134-456 789&quot;, true, false),&#10;            testPhoneNumber(&quot;123 45-down-89&quot;, true, false),&#10;&#10;            testPhoneNumber(&quot;(234)&quot;, true, false),&#10;            testPhoneNumber(&quot;(123) 566&quot;, true, false),&#10;            testPhoneNumber(&quot;873-(456)&quot;, true, false),&#10;            testPhoneNumber(&quot;123 (786) 789&quot;, true, false),&#10;            testPhoneNumber(&quot;163-(456)-789&quot;, true, false),&#10;            testPhoneNumber(&quot;(123) 496-789&quot;, true, false),&#10;            testPhoneNumber(&quot;(173)-456 789&quot;, true, false),&#10;            testPhoneNumber(&quot;123 (95)-67-89&quot;, true, false),&#10;            testPhoneNumber(&quot;+(another)&quot;, true, false),&#10;&#10;            testPhoneNumber(&quot;132+456 78912&quot;, false, false),&#10;            testPhoneNumber(&quot;(123)-456-(45912)&quot;, false, false),&#10;            testPhoneNumber(&quot;8&quot;, true, false),&#10;            testPhoneNumber(&quot;153 456 9&quot;, false, false),&#10;            testPhoneNumber(&quot;823 9 9234&quot;, false, false),&#10;            testPhoneNumber(&quot;123 4?5 654&quot;, false, false),&#10;            testPhoneNumber(&quot;+(another space)&quot;, false, true),&#10;            &#10;            testPhoneNumber(&quot;+1 ()&quot;, false, false),&#10;            testPhoneNumber(&quot;+1 11&quot;, true, false),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;Jq\n&quot; +&#10;                        &quot;Sr\n&quot; +&#10;                        &quot;123\n&quot; +&#10;                        &quot;add\n&quot; +&#10;                        &quot;Qw\n&quot; +&#10;                        &quot;We\n&quot; +&#10;                        &quot;234\n&quot; +&#10;                        &quot;list\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    if (!output.contains(&quot;1. Jq Sr, 123&quot;) ||&#10;                        !output.contains(&quot;2. Qw We, 234&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;New persons should be added at the end of the list&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;Jq\n&quot; +&#10;                        &quot;Sr\n&quot; +&#10;                        &quot;123\n&quot; +&#10;                        &quot;add\n&quot; +&#10;                        &quot;Qw\n&quot; +&#10;                        &quot;We\n&quot; +&#10;                        &quot;234\n&quot; +&#10;                        &quot;edit\n&quot; +&#10;                        &quot;2\n&quot; +&#10;                        &quot;name\n&quot; +&#10;                        &quot;Qe\n&quot; +&#10;                        &quot;list\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    if (!output.contains(&quot;1. Jq Sr, 123&quot;) ||&#10;                        !output.contains(&quot;2. Qe We, 234&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Something wrong with name editing&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;Jq\n&quot; +&#10;                        &quot;Sr\n&quot; +&#10;                        &quot;123\n&quot; +&#10;                        &quot;add\n&quot; +&#10;                        &quot;Qw\n&quot; +&#10;                        &quot;We\n&quot; +&#10;                        &quot;234\n&quot; +&#10;                        &quot;edit\n&quot; +&#10;                        &quot;2\n&quot; +&#10;                        &quot;surname\n&quot; +&#10;                        &quot;QR\n&quot; +&#10;                        &quot;list\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    if (!output.contains(&quot;1. Jq Sr, 123&quot;) ||&#10;                        !output.contains(&quot;2. Qw QR, 234&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Something wrong with surname editing&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;Jq\n&quot; +&#10;                        &quot;Sr\n&quot; +&#10;                        &quot;123\n&quot; +&#10;                        &quot;add\n&quot; +&#10;                        &quot;Qw\n&quot; +&#10;                        &quot;We\n&quot; +&#10;                        &quot;234\n&quot; +&#10;                        &quot;edit\n&quot; +&#10;                        &quot;2\n&quot; +&#10;                        &quot;number\n&quot; +&#10;                        &quot;+(123) (123)\n&quot; +&#10;                        &quot;list\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    if (!output.contains(&quot;1. Jq Sr, 123&quot;) ||&#10;                        !output.contains(&quot;2. Qw We, [no number]&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Something wrong with number editing&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;Jq\n&quot; +&#10;                        &quot;Sr\n&quot; +&#10;                        &quot;123\n&quot; +&#10;                        &quot;add\n&quot; +&#10;                        &quot;Qw\n&quot; +&#10;                        &quot;We\n&quot; +&#10;                        &quot;234\n&quot; +&#10;                        &quot;remove\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                        &quot;list\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    if (!output.contains(&quot;1. Qw We, 234&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Something wrong with removing contacts&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;Jq\n&quot; +&#10;                        &quot;Sr\n&quot; +&#10;                        &quot;123\n&quot; +&#10;                        &quot;add\n&quot; +&#10;                        &quot;Qw\n&quot; +&#10;                        &quot;We\n&quot; +&#10;                        &quot;234\n&quot; +&#10;                        &quot;remove\n&quot; +&#10;                        &quot;2\n&quot; +&#10;                        &quot;list\n&quot; +&#10;                        &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    if (!output.contains(&quot;1. Jq Sr, 123&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Something wrong with removing contacts&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                }))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        try {&#10;            return clue.callback.apply(reply);&#10;        }&#10;        catch (Exception ex) {&#10;            return new CheckResult(false, &quot;Can't check the answer&quot;);&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/Main.java" />
+                                <option name="text" value="package contacts;&#10;import java.util.Scanner;&#10;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        Contact contact = new Contact();&#10;&#10;        System.out.println(&quot;Enter the name of the person:&quot;);&#10;        contact.setName(scanner.nextLine());&#10;&#10;        System.out.println(&quot;Enter the surname of the person:&quot;);&#10;        contact.setSurname(scanner.nextLine());&#10;&#10;        System.out.println(&quot;Enter the number:&quot;);&#10;        contact.setPhone(scanner.nextLine());&#10;&#10;        System.out.println(&quot;A record created!&quot;);&#10;        System.out.println(&quot;A Phone Book with a single record created!&quot;);&#10;    }&#10;}&#10;&#10;class Contact{&#10;&#10;    String name;&#10;    String surname;&#10;    String phone;&#10;&#10;    Contact(){&#10;&#10;    }&#10;&#10;    Contact(String name, String surname, String phone){&#10;        this.name = name;&#10;        this.surname = surname;&#10;        this.phone = phone;&#10;    }&#10;&#10;    public String getName() {&#10;        return name;&#10;    }&#10;&#10;    public void setName(String name) {&#10;        this.name = name;&#10;    }&#10;&#10;    public String getSurname() {&#10;        return surname;&#10;    }&#10;&#10;    public void setSurname(String surname) {&#10;        this.surname = surname;&#10;    }&#10;&#10;    public String getPhone() {&#10;        return phone;&#10;    }&#10;&#10;    public void setPhone(String phone) {&#10;        this.phone = phone;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/User.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/User.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1567623312000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage3" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this stage, you will write a program that can store not only information about people but also organizations.&lt;/p&gt;&#10;&#10;&lt;p&gt;In the real app, you can also store phone numbers of different companies, like your favorite pizza shop or your bank. These organizations don't have a name or a surname; they have an organization name and an address.&lt;/p&gt;&#10;&#10;&lt;p&gt;Additionally, a person can have a birth date and gender, but a company can't have that.&lt;/p&gt;&#10;&#10;&lt;p&gt;Let's use &lt;strong&gt;inheritance &lt;/strong&gt;to solve this issue. There should be a base class containing information relevant to both to an organization and a person, like a phone number. And there should be two classes that inherit this base class: the class that represents an organization and a class that represents a person.&lt;/p&gt;&#10;&#10;&lt;p&gt;The list of records should contain both people and organizations. You can accomplish that if the list with records contains elements of the base class, not the specific classes.&lt;/p&gt;&#10;&#10;&lt;p&gt;There is one problem with that: how can you edit the fields that correspond to specific classes, like the address of an organization? One of the solutions is to create a final Boolean field isPerson in the base class. After that, when editing the record, first check this field, then cast to the corresponding class and then edit the field. This is a bad, workaround solution, but we will write a more general solution in the next stage.&lt;/p&gt;&#10;&#10;&lt;p&gt;Also, in this stage, you can improve the base class so that it has more than one field. You should implement fields that store the date of this record creation and the date of the last edit.&lt;/p&gt;&#10;&#10;&lt;p&gt;[ALERT-warning]Use an empty line to separate different actions, like in the example.[/ALERT]&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;Below is an example of how your output might look. The symbol &lt;code&gt;&amp;gt;&lt;/code&gt; represents the user input.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter action (add, remove, edit, count, info, exit): &amp;gt; add&#10;Enter the type (person, organization): &amp;gt; person&#10;Enter the name: &amp;gt; John&#10;Enter the surname: &amp;gt; Smith&#10;Enter the birth date: &amp;gt;&#10;Bad birth date!&#10;Enter the gender (M, F): &amp;gt;&#10;Bad gender!&#10;Enter the number: &amp;gt; +0 (123) 456-789-ABcd&#10;The record added.&#10;&#10;Enter action (add, remove, edit, count, info, exit): &amp;gt; add&#10;Enter the type (person, organization): &amp;gt; organization&#10;Enter the organization name: &amp;gt; Pizza Shop&#10;Enter the address: &amp;gt; Wall St. 1&#10;Enter the number: &amp;gt; +0 (123) 456-789-9999&#10;The record added.&#10;&#10;Enter action (add, remove, edit, count, info, exit): &amp;gt; info&#10;1. John Smith&#10;2. Pizza Shop&#10;Enter index to show info: &amp;gt; 2&#10;Organization name: Pizza shop&#10;Address: Wall St. 1&#10;Number: +0 (123) 456-789-9999&#10;Time created: 2018-01-01T00:00&#10;Time last edit: 2018-01-01T00:00&#10;&#10;Enter action (add, remove, edit, count, info, exit): &amp;gt; edit&#10;1. John Smith&#10;2. Pizza Shop&#10;Select a record: &amp;gt; 1&#10;Select a field (name, surname, birth, gender, number): &amp;gt; number&#10;Enter number: &amp;gt; (123) 234 345-456&#10;The record updated!&#10;&#10;Enter action (add, remove, edit, count, info, exit): &amp;gt; info&#10;1. John Smith&#10;2. Pizza Shop&#10;Select a record: &amp;gt; 1&#10;Name: John&#10;Surname: Smith&#10;Birth date: [no data]&#10;Gender: [no data]&#10;Number: (123) 234 345-456&#10;Time created: 2018-01-01T00:00&#10;Time last edit: 2018-01-01T00:01&#10;&#10;Enter action (add, remove, edit, count, info, exit): &amp;gt; exit&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/43/stages/230/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5326" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Upgrade your contacts" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ContactsTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="test/ContactsTest.java" />
+                                <option name="text" value="import contacts.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;import java.util.function.Function;&#10;&#10;&#10;class TestClue {&#10;&#10;    Function&lt;String, CheckResult&gt; callback;&#10;&#10;    TestClue(Function&lt;String, CheckResult&gt; callback) {&#10;        this.callback = callback;&#10;    }&#10;}&#10;&#10;&#10;public class ContactsTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public ContactsTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    private CheckResult splitActionsFeedback(int actualSize, String... actions) {&#10;        if (actualSize != actions.length) {&#10;            return CheckResult.FALSE(String.format(&quot;This test should contain %d actions: %s. &quot; +&#10;                            &quot;You should separate your actions with an empty line.&quot;,&#10;                    actions.length,&#10;                    String.join(&quot;, &quot;, actions)));&#10;        } else {&#10;            return null;&#10;        }&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        return List.of (&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;enter action&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;I didn't see where \&quot;Enter action\&quot; part in the responsesFromClient&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;count\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;0 records&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;No \&quot;0 records\&quot; part &quot; +&#10;                                &quot;in the responsesFromClient in a place where it should be&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;count\n&quot; +&#10;                    &quot;edit\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;no records to edit&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;No \&quot;No records to edit\&quot; part &quot; +&#10;                                &quot;in the responsesFromClient in a place where it should be&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;count\n&quot; +&#10;                    &quot;remove\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;no records to remove&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;No \&quot;No records to remove\&quot; part &quot; +&#10;                                &quot;in the responsesFromClient in a place where it should be&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John\n&quot; +&#10;                        &quot;Smith\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;count\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (output.contains(&quot;0 records&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Can't add the person&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John\n&quot; +&#10;                        &quot;Smith\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;info\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, &quot;add&quot;, &quot;info&quot;, &quot;exit&quot;);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[1];&#10;                    if (!infoBlock.contains(&quot;Name: John&quot;)&#10;                        || !infoBlock.contains(&quot;Surname: Smith&quot;)&#10;                        || !infoBlock.contains(&quot;Birth date: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Gender: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Number: 123 456 789&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Something wrong with printing user info&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;organization\n&quot; +&#10;                        &quot;Pizza Shop\n&quot; +&#10;                        &quot;Wall St. 1\n&quot; +&#10;                        &quot;+0 (123) 456-789-9999\n&quot; +&#10;                    &quot;info\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, &quot;add&quot;, &quot;info&quot;, &quot;exit&quot;);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[1];&#10;                    if (!infoBlock.contains(&quot;Organization name: Pizza Shop&quot;)&#10;                        || !infoBlock.contains(&quot;Address: Wall St. 1&quot;)&#10;                        || !infoBlock.contains(&quot;Number: +0 (123) 456-789-9999&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Something wrong with printing organization info&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John\n&quot; +&#10;                        &quot;Smith\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;edit\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                        &quot;gender\n&quot; +&#10;                        &quot;M\n&quot; +&#10;                    &quot;info\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, &quot;add&quot;, &quot;edit&quot;, &quot;info&quot;, &quot;exit&quot;);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[2];&#10;                    if (!infoBlock.contains(&quot;Name: John&quot;)&#10;                        || !infoBlock.contains(&quot;Surname: Smith&quot;)&#10;                        || !infoBlock.contains(&quot;Birth date: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Gender: M&quot;)&#10;                        || !infoBlock.contains(&quot;Number: 123 456 789&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Editing person gender is not working&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John2\n&quot; +&#10;                        &quot;Smith2\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;edit\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                        &quot;name\n&quot; +&#10;                        &quot;John3\n&quot; +&#10;                    &quot;info\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, &quot;add&quot;, &quot;edit&quot;, &quot;info&quot;, &quot;exit&quot;);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[2];&#10;                    if (!infoBlock.contains(&quot;Name: John3&quot;)&#10;                        || !infoBlock.contains(&quot;Surname: Smith2&quot;)&#10;                        || !infoBlock.contains(&quot;Birth date: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Gender: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Number: 123 456 789&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Editing person name is not working&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John2\n&quot; +&#10;                        &quot;Smith2\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;edit\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                        &quot;number\n&quot; +&#10;                        &quot;321 654 978\n&quot; +&#10;                    &quot;info\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, &quot;add&quot;, &quot;edit&quot;, &quot;info&quot;, &quot;exit&quot;);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[2];&#10;                    if (!infoBlock.contains(&quot;Name: John2&quot;)&#10;                        || !infoBlock.contains(&quot;Surname: Smith2&quot;)&#10;                        || !infoBlock.contains(&quot;Birth date: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Gender: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Number: 321 654 978&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Editing person number is not working&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;organization\n&quot; +&#10;                        &quot;Pizza Shop\n&quot; +&#10;                        &quot;Wall St. 1\n&quot; +&#10;                        &quot;+0 (123) 456-789-9999\n&quot; +&#10;                    &quot;edit\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                        &quot;address\n&quot; +&#10;                        &quot;Wall St 2\n&quot; +&#10;                    &quot;info\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, &quot;add&quot;, &quot;edit&quot;, &quot;info&quot;, &quot;exit&quot;);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[2];&#10;                    if (!infoBlock.contains(&quot;Organization name: Pizza Shop&quot;)&#10;                        || !infoBlock.contains(&quot;Address: Wall St 2&quot;)&#10;                        || !infoBlock.contains(&quot;Number: +0 (123) 456-789-9999&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Editing organization address is not working&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;organization\n&quot; +&#10;                        &quot;Pizza Shop\n&quot; +&#10;                        &quot;Wall St. 1\n&quot; +&#10;                        &quot;+0 (123) 456-789-9999\n&quot; +&#10;                    &quot;edit\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                        &quot;number\n&quot; +&#10;                        &quot;+0 (123) 456-789-12345\n&quot; +&#10;                    &quot;info\n&quot; +&#10;                        &quot;1\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, &quot;add&quot;, &quot;edit&quot;, &quot;info&quot;, &quot;exit&quot;);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[2];&#10;                    if (!infoBlock.contains(&quot;Organization name: Pizza Shop&quot;)&#10;                        || !infoBlock.contains(&quot;Address: Wall St. 1&quot;)&#10;                        || !infoBlock.contains(&quot;Number: +0 (123) 456-789-12345&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Editing organization number is not working&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                }))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        try {&#10;            return clue.callback.apply(reply);&#10;        }&#10;        catch (Exception ex) {&#10;            return new CheckResult(false, &quot;Can't check the answer&quot;);&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/Main.java" />
+                                <option name="text" value="package contacts;&#10;import java.util.Scanner;&#10;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        Contact contact = new Contact();&#10;&#10;        System.out.println(&quot;Enter the name of the person:&quot;);&#10;        contact.setName(scanner.nextLine());&#10;&#10;        System.out.println(&quot;Enter the surname of the person:&quot;);&#10;        contact.setSurname(scanner.nextLine());&#10;&#10;        System.out.println(&quot;Enter the number:&quot;);&#10;        contact.setPhone(scanner.nextLine());&#10;&#10;        System.out.println(&quot;A record created!&quot;);&#10;        System.out.println(&quot;A Phone Book with a single record created!&quot;);&#10;    }&#10;}&#10;&#10;class Contact{&#10;&#10;    String name;&#10;    String surname;&#10;    String phone;&#10;&#10;    Contact(){&#10;&#10;    }&#10;&#10;    Contact(String name, String surname, String phone){&#10;        this.name = name;&#10;        this.surname = surname;&#10;        this.phone = phone;&#10;    }&#10;&#10;    public String getName() {&#10;        return name;&#10;    }&#10;&#10;    public void setName(String name) {&#10;        this.name = name;&#10;    }&#10;&#10;    public String getSurname() {&#10;        return surname;&#10;    }&#10;&#10;    public void setSurname(String surname) {&#10;        this.surname = surname;&#10;    }&#10;&#10;    public String getPhone() {&#10;        return phone;&#10;    }&#10;&#10;    public void setPhone(String phone) {&#10;        this.phone = phone;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/Gender.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/Gender.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/Organization.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/Organization.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/Base.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/Base.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/User.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/User.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1567624936000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage4" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Our temporary solution in the previous stage was bad because of every time you want to interact with concrete classes you must check the Boolean field then apply different code according to the concrete class. So far so good, you implement this behavior every time you need to. However, in a larger application, there can be 100 places or more where you must  do this. And at the end of the day, a new feature request might come in: implement a third type of records, something that represents an automated system with robots serving the calls. You would be very annoyed that you were forced to find all the places where you interact with concrete classes.&lt;/p&gt;&#10;&#10;&lt;p&gt;The solution to this problem is a &lt;strong&gt;polymorphism&lt;/strong&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;Basically, you need to implement the functionality in one place inside a concrete class. All of the derived classes should implement this method, and in the base class, there should be an abstract method. In the code, you actually call this abstract method and get different code executions in the derived classes.&lt;/p&gt;&#10;&#10;&lt;p&gt;To solve your problem, you should create several methods:&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;  &lt;li&gt;A method that returns all of the possible fields this class is able to change.&lt;/li&gt;&#10;  &lt;li&gt;A method that takes a string that represents a field that the class is able to change and its new value.&lt;/li&gt;&#10;  &lt;li&gt;A method that takes a string representation of the field and returns the value of this field.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;After that, you don't need any Boolean workarounds and type casts; the code will be nice and clean.&lt;/p&gt;&#10;&#10;&lt;p&gt;Also, in this stage, you should implement saving to a file and loading from a file. You can save the Contacts using serialization. You should specify a file you are working with by a command-line argument. This would automatically save the Contacts on the hard drive after each action that modifies data. If you don't specify an argument, then you should create a new Contacts and keep it in memory. If you specify a file that doesn't exist, you should create an empty Contacts save all changes to the newly created file.&lt;/p&gt;&#10;&#10;&lt;p&gt;Also, in this stage, you should implement search functionality. For this, you can append all of the values from all of the fields and check if this string contains a search request. It should support regular expressions, too! And, of course, it should be case insensitive.&lt;/p&gt;&#10;&#10;&lt;p&gt;Use an empty line to separate different actions, like in the example.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;Below is an example of how your output might look. The symbol &lt;code&gt;&amp;gt;&lt;/code&gt; represents the user input.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;open phonebook.db&#10;&#10;[menu] Enter action (add, list, search, count, exit): &amp;gt; count&#10;The Phone Book has 6 records.&#10;&#10;[menu] Enter action (add, list, search, count, exit): &amp;gt; search&#10;Enter search query: &amp;gt; cent&#10;Found 3 results:&#10;1. Central Bank&#10;2. Centurion Adams&#10;3. Decent Pizza Shop&#10;&#10;[search] Enter action ([number], back, again): &amp;gt; again&#10;Enter search query: &amp;gt; shop&#10;Found 2 results:&#10;1. Decent Pizza Shop&#10;2. Car shop&#10;&#10;[search] Enter action ([number], back, again): &amp;gt; 2&#10;Organization name: Car shop&#10;Address: Wall St. 3&#10;Number: +0 (123) 456-789-9999&#10;Time created: 2018-01-01T00:03&#10;Time last edit: 2018-04-29T11:34&#10;&#10;[record] Enter action (edit, delete, menu): &amp;gt; edit&#10;Select a field (name, address, number): &amp;gt; name&#10;Enter name: &amp;gt; New Car Shop&#10;Saved&#10;Organization name: New Car Shop&#10;Address: Wall St. 3&#10;Number: +0 (123) 456-789-9999&#10;Time created: 2018-01-01T00:03&#10;Time last edit: 2018-11-20T11:04&#10;&#10;[record] Enter action (edit, delete, menu): &amp;gt; menu&#10;&#10;[menu] Enter action (add, list, search, count, exit): &amp;gt; search&#10;Enter search query: &amp;gt; new&#10;Found 1 result:&#10;1. New Car Shop&#10;&#10;[search] Enter action ([number], back, again): &amp;gt; back&#10;&#10;[menu] Enter action (add, list, search, count, exit): &amp;gt; list&#10;1. New Car Shop&#10;2. Decent Pizza Shop&#10;3. Central Bank&#10;4. Centurion Adams&#10;5. John Smith&#10;6. Alice Wonderlanded&#10;&#10;[list] Enter action ([number], back): &amp;gt; 6&#10;Name: Alice&#10;Surname: Wonderlanded&#10;Birth date: [no data]&#10;Gender: F&#10;Number: +123123 (123) 12-23-34-45&#10;Time created: 2018-03-12T11:21&#10;Time last edit: 2018-03-12T11:21&#10;&#10;[record] Enter action (edit, delete, menu): &amp;gt; edit&#10;Select a field (name, surname, birth, gender, number): &amp;gt; number&#10;Enter number: &amp;gt; +23 (321) 12-12 12 12&#10;Saved&#10;Name: Alice&#10;Surname: Wonderlanded&#10;Birth date: [no data]&#10;Gender: F&#10;Number: +23 (321) 12-12 12 12&#10;Time created: 2018-03-12T11:21&#10;Time last edit: 2018-11-20T11:07&#10;&#10;[record] Enter action (edit, delete, menu): &amp;gt; menu&#10;&#10;[menu] Enter action (add, list, search, count, exit): &amp;gt; exit&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/43/stages/231/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5327" />
+                      <option name="index" value="4" />
+                      <option name="name" value="Searching" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ContactsTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ContactsTest.java" />
+                                <option name="text" value="import contacts.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;import java.util.function.Function;&#10;&#10;&#10;class TestClue {&#10;&#10;    Function&lt;String, CheckResult&gt; callback;&#10;&#10;    TestClue(Function&lt;String, CheckResult&gt; callback) {&#10;        this.callback = callback;&#10;    }&#10;}&#10;&#10;&#10;public class ContactsTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public ContactsTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;    private CheckResult splitActionsFeedback(int actualSize, int needSize) {&#10;        if (actualSize &lt; needSize) {&#10;            return CheckResult.FALSE(String.format(&quot;This test should contain at least %d actions, but you have only %d. &quot; +&#10;                            &quot;You should separate your actions with an empty line.&quot;,&#10;                    needSize,&#10;                    actualSize));&#10;        } else {&#10;            return null;&#10;        }&#10;    }&#10;    &#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        return List.of (&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;enter action&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;I didn't see where \&quot;Enter action\&quot; part in the responsesFromClient&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;count\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (!output.contains(&quot;0 records&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;No \&quot;0 records\&quot; part &quot; +&#10;                                &quot;in the responsesFromClient in a place where it should be&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John\n&quot; +&#10;                        &quot;Smith\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;count\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    output = output.strip().toLowerCase();&#10;                    if (output.contains(&quot;0 records&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Can't add the person&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John\n&quot; +&#10;                        &quot;Smith\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;list\n&quot; +&#10;                    &quot;1\n&quot; +&#10;                    &quot;menu\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, 3);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[2];&#10;                    if (!infoBlock.contains(&quot;Name: John&quot;)&#10;                        || !infoBlock.contains(&quot;Surname: Smith&quot;)&#10;                        || !infoBlock.contains(&quot;Birth date: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Gender: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Number: 123 456 789&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Something wrong with printing user info&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;organization\n&quot; +&#10;                        &quot;Pizza Shop\n&quot; +&#10;                        &quot;Wall St. 1\n&quot; +&#10;                        &quot;+0 (123) 456-789-9999\n&quot; +&#10;                    &quot;list\n&quot; +&#10;                    &quot;1\n&quot; +&#10;                    &quot;menu\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, 3);&#10;                    if (feedback != null) return feedback;&#10;    &#10;                    String infoBlock = blocks[2];&#10;                    if (!infoBlock.contains(&quot;Organization name: Pizza Shop&quot;)&#10;                        || !infoBlock.contains(&quot;Address: Wall St. 1&quot;)&#10;                        || !infoBlock.contains(&quot;Number: +0 (123) 456-789-9999&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Something wrong with printing organization info&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John\n&quot; +&#10;                        &quot;Smith\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;list\n&quot; +&#10;                    &quot;1\n&quot; +&#10;                    &quot;edit\n&quot; +&#10;                        &quot;gender\n&quot; +&#10;                        &quot;M\n&quot; +&#10;                    &quot;menu\n&quot; +&#10;                    &quot;list\n&quot; +&#10;                    &quot;1\n&quot; +&#10;                    &quot;menu\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, 6);&#10;                    if (feedback != null) return feedback;&#10;    &#10;                    String infoBlock = blocks[5];&#10;                    if (!infoBlock.contains(&quot;Name: John&quot;)&#10;                        || !infoBlock.contains(&quot;Surname: Smith&quot;)&#10;                        || !infoBlock.contains(&quot;Birth date: [no data]&quot;)&#10;                        || !infoBlock.contains(&quot;Gender: M&quot;)&#10;                        || !infoBlock.contains(&quot;Number: 123 456 789&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Editing person is not working&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;organization\n&quot; +&#10;                        &quot;Pizza Shop\n&quot; +&#10;                        &quot;Wall St. 1\n&quot; +&#10;                        &quot;+0 (123) 456-789-9999\n&quot; +&#10;                    &quot;list\n&quot; +&#10;                    &quot;1\n&quot; +&#10;                    &quot;edit\n&quot; +&#10;                        &quot;address\n&quot; +&#10;                        &quot;Wall St 2\n&quot; +&#10;                    &quot;menu\n&quot; +&#10;                    &quot;list\n&quot; +&#10;                    &quot;1\n&quot; +&#10;                    &quot;menu\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, 6);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[5];&#10;                    if (!infoBlock.contains(&quot;Organization name: Pizza Shop&quot;)&#10;                        || !infoBlock.contains(&quot;Address: Wall St 2&quot;)&#10;                        || !infoBlock.contains(&quot;Number: +0 (123) 456-789-9999&quot;)&#10;                        || !infoBlock.contains(&quot;Time created:&quot;)&#10;                        || !infoBlock.contains(&quot;Time last edit:&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Editing organization is not working&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;organization\n&quot; +&#10;                        &quot;Pizza Shop\n&quot; +&#10;                        &quot;Wall St. 1\n&quot; +&#10;                        &quot;+0 (123) 456-789-9999\n&quot; +&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John\n&quot; +&#10;                        &quot;Smith\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;add\n&quot; +&#10;                        &quot;organization\n&quot; +&#10;                        &quot;PizzaNuts\n&quot; +&#10;                        &quot;Wall St. 6\n&quot; +&#10;                        &quot;+0 (123) 456-789-9999\n&quot; +&#10;                    &quot;search\n&quot; +&#10;                        &quot;pizz\n&quot; +&#10;                    &quot;1\n&quot; +&#10;                    &quot;menu\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, 4);&#10;                    if (feedback != null) return feedback;&#10;    &#10;                    &#10;                    String infoBlock = blocks[3];&#10;                    if (!infoBlock.contains(&quot;Pizza Shop&quot;)&#10;                        || !infoBlock.contains(&quot;PizzaNuts&quot;)&#10;                        || infoBlock.contains(&quot;John&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Search is not working&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setInput(&#10;                    &quot;add\n&quot; +&#10;                        &quot;organization\n&quot; +&#10;                        &quot;Pizza Shop\n&quot; +&#10;                        &quot;Wall St. 1\n&quot; +&#10;                        &quot;+0 (123) 456-789-9999\n&quot; +&#10;                    &quot;add\n&quot; +&#10;                        &quot;person\n&quot; +&#10;                        &quot;John\n&quot; +&#10;                        &quot;Smith\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;\n&quot; +&#10;                        &quot;123 456 789\n&quot; +&#10;                    &quot;add\n&quot; +&#10;                        &quot;organization\n&quot; +&#10;                        &quot;PizzaNuts\n&quot; +&#10;                        &quot;Wall St. 6\n&quot; +&#10;                        &quot;+0 (123) 456-789-9999\n&quot; +&#10;                    &quot;search\n&quot; +&#10;                        &quot;s\n&quot; +&#10;                    &quot;1\n&quot; +&#10;                    &quot;menu\n&quot; +&#10;                    &quot;exit&quot;)&#10;                .setAttach(new TestClue(output -&gt; {&#10;                    String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                    var feedback = splitActionsFeedback(blocks.length, 4);&#10;                    if (feedback != null) return feedback;&#10;                    &#10;                    String infoBlock = blocks[3];&#10;                    if (!infoBlock.contains(&quot;Pizza Shop&quot;)&#10;                        || !infoBlock.contains(&quot;John Smith&quot;)&#10;                        || !infoBlock.contains(&quot;PizzaNuts&quot;)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Search is not working&quot;);&#10;                    }&#10;                    return CheckResult.TRUE;&#10;                })),&#10;&#10;        new TestCase&lt;TestClue&gt;()&#10;            .setInput(&#10;                &quot;add\n&quot; +&#10;                    &quot;organization\n&quot; +&#10;                    &quot;Pizza Shop\n&quot; +&#10;                    &quot;Wall St. 1\n&quot; +&#10;                    &quot;+0 (123) 456-789-9999\n&quot; +&#10;                &quot;add\n&quot; +&#10;                    &quot;person\n&quot; +&#10;                    &quot;John\n&quot; +&#10;                    &quot;Smith\n&quot; +&#10;                    &quot;\n&quot; +&#10;                    &quot;\n&quot; +&#10;                    &quot;123 456 789\n&quot; +&#10;                &quot;add\n&quot; +&#10;                    &quot;organization\n&quot; +&#10;                    &quot;PizzaNuts\n&quot; +&#10;                    &quot;Wall St. 6\n&quot; +&#10;                    &quot;+0 (123) 456-781-9999\n&quot; +&#10;                &quot;search\n&quot; +&#10;                    &quot;789\n&quot; +&#10;                &quot;1\n&quot; +&#10;                &quot;menu\n&quot; +&#10;                &quot;exit&quot;)&#10;            .setAttach(new TestClue(output -&gt; {&#10;                String[] blocks = output.strip().split(&quot;(\\s*\\n\\s*){2,}&quot;);&#10;                var feedback = splitActionsFeedback(blocks.length, 4);&#10;                if (feedback != null) return feedback;&#10;    &#10;                String infoBlock = blocks[3];&#10;                if (!infoBlock.contains(&quot;Pizza Shop&quot;)&#10;                    || !infoBlock.contains(&quot;John Smith&quot;)&#10;                    || infoBlock.contains(&quot;PizzaNuts&quot;)) {&#10;                    return new CheckResult(false,&#10;                        &quot;Search by phone number is not working&quot;);&#10;                }&#10;                return CheckResult.TRUE;&#10;            }))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        try {&#10;            return clue.callback.apply(reply);&#10;        }&#10;        catch (Exception ex) {&#10;            return new CheckResult(false, &quot;Can't check the answer&quot;);&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/Main.java" />
+                                <option name="text" value="package contacts;&#10;import java.util.Scanner;&#10;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        Contact contact = new Contact();&#10;&#10;        System.out.println(&quot;Enter the name of the person:&quot;);&#10;        contact.setName(scanner.nextLine());&#10;&#10;        System.out.println(&quot;Enter the surname of the person:&quot;);&#10;        contact.setSurname(scanner.nextLine());&#10;&#10;        System.out.println(&quot;Enter the number:&quot;);&#10;        contact.setPhone(scanner.nextLine());&#10;&#10;        System.out.println(&quot;A record created!&quot;);&#10;        System.out.println(&quot;A Phone Book with a single record created!&quot;);&#10;    }&#10;}&#10;&#10;class Contact{&#10;&#10;    String name;&#10;    String surname;&#10;    String phone;&#10;&#10;    Contact(){&#10;&#10;    }&#10;&#10;    Contact(String name, String surname, String phone){&#10;        this.name = name;&#10;        this.surname = surname;&#10;        this.phone = phone;&#10;    }&#10;&#10;    public String getName() {&#10;        return name;&#10;    }&#10;&#10;    public void setName(String name) {&#10;        this.name = name;&#10;    }&#10;&#10;    public String getSurname() {&#10;        return surname;&#10;    }&#10;&#10;    public void setSurname(String surname) {&#10;        this.surname = surname;&#10;    }&#10;&#10;    public String getPhone() {&#10;        return phone;&#10;    }&#10;&#10;    public void setPhone(String phone) {&#10;        this.phone = phone;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/Base.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/Base.java" />
+                                <option name="text" value="package contacts;&#10;&#10;import java.time.LocalDateTime;&#10;&#10;public class Base {&#10;&#10;    private Boolean person;&#10;    private String name;&#10;    private String phone;&#10;    private LocalDateTime create;&#10;    private LocalDateTime edit;&#10;&#10;&#10;    public Base() {&#10;    }&#10;&#10;    public Base(Boolean person, String phone, String name, LocalDateTime create, LocalDateTime edit) {&#10;        this.name = name;&#10;        this.phone = phone;&#10;        this.person = person;&#10;        this.create = create;&#10;        this.edit = edit;&#10;    }&#10;&#10;    public String getName() {&#10;        return name;&#10;    }&#10;&#10;    public void setName(String name) {&#10;        this.name = name;&#10;    }&#10;&#10;    public Boolean isPerson() {&#10;        return person;&#10;    }&#10;&#10;    public void setPerson(Boolean person) {&#10;        this.person = person;&#10;    }&#10;&#10;    public Boolean getPerson() {&#10;        return person;&#10;    }&#10;&#10;    public LocalDateTime getCreate() {&#10;        return create;&#10;    }&#10;&#10;    public void setCreate(LocalDateTime create) {&#10;        this.create = create;&#10;    }&#10;&#10;    public LocalDateTime getEdit() {&#10;        return edit;&#10;    }&#10;&#10;    public void setEdit(LocalDateTime edit) {&#10;        this.edit = edit;&#10;    }&#10;&#10;    public String getPhone() {&#10;        return phone;&#10;    }&#10;&#10;    public void setPhone(String phone) {&#10;        this.phone = phone;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/Organization.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/Organization.java" />
+                                <option name="text" value="package contacts;&#10;&#10;public class Organization extends Base{&#10;&#10;    private String address;&#10;&#10;    public Organization() {&#10;    }&#10;&#10;    public Organization( String address) {&#10;        this.address = address;&#10;    }&#10;&#10;    public String getAddress() {&#10;        return address;&#10;    }&#10;&#10;    public void setAddress(String address) {&#10;        this.address = address;&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/User.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/contacts/User.java" />
+                                <option name="text" value="package contacts;&#10;&#10;import java.time.LocalDate;&#10;&#10;public class User extends Base{&#10;&#10;    private String surname;&#10;    private LocalDate birthday;&#10;    private Gender gender;&#10;&#10;    public User() {&#10;    }&#10;&#10;    public User(String surname,  LocalDate date, Gender gender) {&#10;        this.surname = surname;&#10;        this.birthday = date;&#10;        this.gender = gender;&#10;    }&#10;&#10;    public String getSurname() {&#10;        return surname;&#10;    }&#10;&#10;    public void setSurname(String surname) {&#10;        this.surname = surname;&#10;    }&#10;&#10;&#10;    public LocalDate getBirthday() {&#10;        return birthday;&#10;    }&#10;&#10;    public void setBirthday(LocalDate birthday) {&#10;        this.birthday = birthday;&#10;    }&#10;&#10;    public Gender getGender() {&#10;        return gender;&#10;    }&#10;&#10;    public void setGender(Gender gender) {&#10;        this.gender = gender;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/contacts/Gender.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/contacts/Gender.java" />
+                                <option name="text" value="package contacts;&#10;&#10;public enum Gender {&#10;    M, F&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1567623312000" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
